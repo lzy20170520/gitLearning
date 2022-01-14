@@ -2,3 +2,10 @@
 github修改了
 我们以后来修改文件了，本地
 20220114175323
+vim today.txt
+git add  -A
+git commit  -m  "修改内容"
+git push
+git pull
+
+
